@@ -21,7 +21,7 @@ body {
 .bar {
     box-sizing: border-box;
     position: fixed;
-    background-image: url(images/finalbackground.png);
+    background-image: url(images/finalbackground10.png);
     width: 100%;
     display: flex;
     justify-content: space-between;
